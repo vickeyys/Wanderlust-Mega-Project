@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: vickeys/wanderlust-frontend-beta:v4
+          image: vickeys/wanderlust-frontend-beta:v5
           ports:
             - containerPort: 5173
 ---
